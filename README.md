@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<h3 align="center">Shubham Sharma | QA - Engineer | Around 3 years EXP. | India</h3>
+<h3 align="center">Shubham Sharma | SDET - Engineer | Around 4 years EXP. | India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techshubhamsharma&label=Profile%20views&color=0e75b6&style=flat" alt="techshubhamsharma" /> </p>
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Selenium, Cucumber, Appium, RestAssured, Java, BDD Testing**
 
-- 📫 How to reach me **shubham0999sh@gmail.com**
+- 📫 How to reach me **techyshubhamsharma@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DSmsryExQPnZDs8OCZRxWUpmUcE9G52J/view?usp=sharing](https://drive.google.com/file/d/1DSmsryExQPnZDs8OCZRxWUpmUcE9G52J/view?usp=sharing)
 
