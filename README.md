@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **techyshubhamsharma@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DSmsryExQPnZDs8OCZRxWUpmUcE9G52J/view?usp=sharing](https://drive.google.com/file/d/1DSmsryExQPnZDs8OCZRxWUpmUcE9G52J/view?usp=sharing)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
